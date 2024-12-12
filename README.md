@@ -27,4 +27,4 @@ This repository contains the code for our CoMeDi Shared Task system description 
 
 ## Datasets
 
--all datasets are publicly available at https://www.ims.uni-stuttgart.de/data/wugs
+-all the CoMeDi shared task datasets are publicly available at https://www.ims.uni-stuttgart.de/data/wugs
